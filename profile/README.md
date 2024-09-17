@@ -1,6 +1,6 @@
 ## Human-grade Container Orchestration 🪄
 
-Purveyors of refined [skate](https://skate.github.io)
+Purveyors of refined [skate](https://skateco.github.io)
 <!--
 
 **Here are some ideas to get you started:**
